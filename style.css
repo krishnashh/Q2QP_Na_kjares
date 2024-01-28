@@ -102,7 +102,7 @@
     {
       margin-top: 20vh;
       text-align: center;
-      box-shadow: #ffc2c7;
+      text-shadow:1px 1px #ffc2c7;
        font-size: xx-large;
        color: white;
        text-shadow: pink;
@@ -111,7 +111,8 @@
     section p
     {
       margin-top: 2vh; 
-      text-color: black;
+      color: black;
+      text-shadow: 1px 1px white;
       text-align: center;
     }
 
@@ -188,12 +189,15 @@
    }
 
    .page3 h2 {
+    color: black;
+    text-shadow: 1px 1px purple;
     margin-top: 5vh;
     margin-left: 3vw;
    }
 
    .page3 p {
       color:black;
+      margin-top: 10px;
       margin-left: 20px;
    }
 
